@@ -18,7 +18,7 @@ Work in Progress
 * Gene regulatory co-expression network learning in single cell RNAseq data
 
 
-Selected Publications
+Publications
 ======
 * **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near submission)
 
@@ -26,15 +26,14 @@ Selected Publications
 
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near submission)
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under review)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under review in **Cell**)
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision)
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSSC**)
            
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review) 
-
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**) 
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2019). 
 
@@ -42,15 +41,19 @@ Selected Publications
 
 * Sylvie, N., ..., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (**AIDS Patient care and STDs**, 2019). 
 
+* **Chowdhury, Shrabanti** et al. Bayesian Approach for Assessing Non-inferiority in Three-arm Trials for Risk Ratio and Odds Ratio (**Statistics in Biopharmaceutical Research**, 2019).
+
+* **Chowdhury, Shrabanti** et al. Approaches for testing non inferiority in two arm trials for risk ratio and odds ratio (**Journal of Biopharmaceutical Statistics**, 2019).
+
 * **Chowdhury, Shrabanti** et al. Group Regularizatin for Zero-inflated Count Regression Models with an Application to Insurance Ratemaking (**Journal of Applied Statistics**, 2018). 
-		 
 
 * Chatterjee, S\*, **Chowdhury, Shrabanti**\* et al. Group Regularization for Zero-inflated Count Regression Models with an Application to Healthcare Demand in Germany (**Statistics in Medicine**, 2018).
 \*Co-first authors
 			
-
 * Banerjee, Prithish, ..., **Chowdhury, Shrabanti** et al. A Note on the Adaptive LASSO for Zero-Inflated Poisson Regression (**Journal of Probability and Statistics**, 2018).
-			
+	
+* **Chowdhury, Shrabanti** et al. Non-inferiority Testing for Risk Ratio, Odds Ratio and Number Needed to Treat in Three-arm Trial (**Computational Statistics and Data Analysis**, 2018).
+
 * Ghosh, Subir and **Chowdhury, Shrabanti**. CV, ECV, and Robust CV designs for replications under a class of linear models for factorial experiments (**Journal of Statistical Planning and Inference**, 2017). 
 
 * El-Masri, F, ..., **Chowdhury, Shrabanti** et al (2014).  Analysis of Self-Reported Health Outcomes Data from Web-Based Media Sources, in 2014 Mathematical and Statistical Modeling Workshop for Graduate Students, eds. Pierre Gremaud, Ilse C.F. Ipsen, and Ralph Smith, CRSC Technical Report TR14-11. 
