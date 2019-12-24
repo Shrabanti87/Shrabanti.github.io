@@ -58,6 +58,8 @@ Selected Posters
 ======
 * [NCI-CPTAC](https://events.cancer.gov/cssi/occpr) Annual Meeting at NIH, Washington, DC, USA, October 2019 
 
+* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html), Colorado State University, Colorado, USA, July 2019
+
 * [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, April 2019 
 
 * [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, October 2018 
