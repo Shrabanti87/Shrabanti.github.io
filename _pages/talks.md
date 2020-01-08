@@ -11,6 +11,8 @@ author_profile: true
 
 Invited Talks
 ======
+* [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) at Philadelphia, PA, USA
+
 * [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
 
 * [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
