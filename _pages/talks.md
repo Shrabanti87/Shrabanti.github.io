@@ -11,7 +11,7 @@ author_profile: true
 
 Invited Talks
 ======
-* [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) at Philadelphia, PA, USA
+* [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) 2020 at Philadelphia, PA, USA
 
 * [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
 
