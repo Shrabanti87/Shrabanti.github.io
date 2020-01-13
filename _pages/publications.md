@@ -13,7 +13,7 @@ Work in Progress
 
 * Differential gene expression analysis in single cell RNAseq data using Tweedie Compound Poisson Models
 
-* Learning Directed Acyclic Graphs intergrating bulk tumor and single cell RNAseq data
+* Learning Directed Acyclic Graphs integrating bulk tumor and single cell RNAseq data
 
 
 Publications
@@ -22,6 +22,8 @@ Publications
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near submission)
 
+* Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions (Near submission)
+
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near submission)
 
 * Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under review in **Cell**)
@@ -29,7 +31,7 @@ Publications
 * Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSSC**)
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSSC**)
            
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Digital Medicine**) 
 
