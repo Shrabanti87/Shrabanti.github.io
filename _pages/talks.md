@@ -11,7 +11,7 @@ author_profile: true
 
 Invited Talks
 ======
-* [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) 2020 at Philadelphia, PA, USA, August 2020
+* Topic contributed session in Biometrics, [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) 2020 at Philadelphia, PA, USA, August 2020
 
 * [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
 
@@ -37,6 +37,7 @@ Participation in Selected Workshops
 
 Selected Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
 ======
+*  NCI site-visit for annual PTRC meeting, March 2020, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
 *  NCI site-visit for annual PTRC meeting, May 2019, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
 *  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA
 
