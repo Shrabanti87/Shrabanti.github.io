@@ -18,7 +18,7 @@ Work in Progress
 
 Publications
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer (**Near submission**)
+* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Protein Biomarkers in Ovarian Cancer (**Near submission**)
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (**Near submission**)
 
