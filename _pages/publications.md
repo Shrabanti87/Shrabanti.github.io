@@ -18,9 +18,10 @@ Work in Progress
 
 Publications
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Protein Biomarkers in Ovarian Cancer (**Near submission**)
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (**Near submission**)
+
+* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Submitted**)
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions (**Near submission**)
 
