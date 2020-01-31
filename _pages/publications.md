@@ -21,11 +21,11 @@ Publications
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (**Near submission**)
 
-* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Submitted**)
-
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions (**Near submission**)
 
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (**Near submission**)
+
+* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Submitted**)
 
 * Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under review in **Cell**)
 
