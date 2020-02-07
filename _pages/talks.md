@@ -11,6 +11,8 @@ author_profile: true
 
 Invited Talks
 ======
+* [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://sites.google.com/uncg.edu/aisc2020) at Greensboro, North Carolina, USA, October 2020 
+
 * 13th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2020](http://www.cmstatistics.org/CMStatistics2020/), London, UK, December, 2020
 
 * Topic contributed session in Biometrics, [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) 2020 at Philadelphia, PA, USA, August 2020
