@@ -27,7 +27,7 @@ Publications
 
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Submitted**)
 
-* Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under review in **Cell**)
+* Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under revision in **Cell**)
 
 * Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
