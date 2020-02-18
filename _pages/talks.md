@@ -33,11 +33,13 @@ Invited Talks
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
 
-Participation in Selected Workshops
+Participation in Selected Workshops  (**Competitive Selection**)
 ======
-* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA  (**Competitive Selection**)
+* [May Institute on Computation and statistics for mass spectrometry and proteomics](https://computationalproteomics.khoury.northeastern.edu/) May 2020, NorthEastern University, Boston, MA, USA 
 
-* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA  (**Competitive Selection**)
+* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA 
+
+* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA 
 
 
 Selected Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
