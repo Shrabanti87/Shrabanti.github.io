@@ -15,6 +15,9 @@ Work in Progress
 
 * Learning Directed Acyclic Graphs integrating bulk tumor and single cell RNAseq data
 
+* Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
+
+* Optimal designs in discrete choice experiment 
 
 Publications
 ======
