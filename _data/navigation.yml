@@ -9,6 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+    - title: "R Packages Developed"
+    url: /package/   
+    
   # - title: "Portfolio"
     # url: /portfolio/
         
@@ -20,3 +23,6 @@ main:
     
   - title: "Awards"
     url: /awards/
+    
+    - title: "Voluntary Activity"
+    url: /padakshep/
