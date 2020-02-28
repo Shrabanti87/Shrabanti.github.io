@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "R Packages Developed"
+title: ""
 permalink: /packages/
 author_profile: true
 
