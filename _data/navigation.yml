@@ -1,6 +1,6 @@
 # main links links
 main:
-  -   title: "Publications"
+  - title: "Publications"
     url: /publications/
 
   - title: "Conference Talks"
@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "R Packages Developed"
-    url: /packages/   
+        - title: "R Packages Developed"
+          url: /packages/   
     
   # - title: "Portfolio"
     # url: /portfolio/
@@ -21,8 +21,8 @@ main:
   #- title: "CV"
    # url: /cv/
     
-  - title: "Awards"
-    url: 
+             - title: "Awards"
+    url: /awards/
     
   - title: "Voluntary Activity"
     url: /padakshep/
