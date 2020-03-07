@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "R Packages Developed"
+  - title: "R Packages"
     url: /packages/   
     
   # - title: "Portfolio"
