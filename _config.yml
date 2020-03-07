@@ -99,7 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  publons          : "https://publons.com/researcher/1211118/shrabanti-chowdhury/"
+  publons          : "https://publons.com/researcher/1211118/shrabanti-chowdhury"
   linkedin         : "shrabanti-chowdhury-49524b19"
   orcid            : "https://orcid.org/0000-0001-8429-7822"
   pinterest        :
@@ -239,7 +239,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
