@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Conference Talks"
-    url: /talks/    
+    url: /talks/  
 
   - title: "Teaching"
     url: /teaching/    
@@ -12,14 +12,8 @@ main:
   - title: "R Packages"
     url: /packages/   
     
-  # - title: "Portfolio"
-    # url: /portfolio/
-        
   - title: "Services"
     url: /responsibilities/
-    
-  #- title: "CV"
-   # url: /cv/
     
   - title: "Awards"
     url: /awards/
