@@ -11,7 +11,7 @@ author_profile: true
 Work in Progress
 ======
 
-* Differential gene expression analysis in single cell RNAseq data using Tweedie Compound Poisson Models
+* Differential gene expression analysis of Multi-omics data using Tweedie Compound Poisson Models
 
 * Learning Directed Acyclic Graphs integrating bulk tumor and single cell RNAseq data
 
