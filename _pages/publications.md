@@ -19,15 +19,17 @@ Work in Progress
 
 * Optimal designs in discrete choice experiment 
 
-Publications
+Near submission
 ======
 
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (**Near submission**)
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers 
 
-* Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions (**Near submission**)
+* Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (**Near submission**)
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC 
 
+Under review/revision
+======
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Submitted**)
 
 * Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under revision in **Cell**)
@@ -39,7 +41,9 @@ Publications
            
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Digital Medicine**) 
 
-Dou, Y, ..., **Chowdhury, Shrabanti**, Wang, P et al. Proteogenomic Characterization of Endometrial Carcinoma (**Cell**, 2020)
+Published
+======
+* Dou, Y, ..., **Chowdhury, Shrabanti**, Wang, P et al. Proteogenomic Characterization of Endometrial Carcinoma (**Cell**, 2020)
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2020)
 
