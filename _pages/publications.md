@@ -39,7 +39,9 @@ Publications
            
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Digital Medicine**) 
 
-* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2019)
+Dou, Y, ..., **Chowdhury, Shrabanti**, Wang, P et al. Proteogenomic Characterization of Endometrial Carcinoma (**Cell**, 2020)
+
+* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2020)
 
 * Clark, D, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (**Cell**, 2019).   
 
