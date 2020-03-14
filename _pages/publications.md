@@ -30,7 +30,7 @@ Near submission
 
 Under review/revision
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Submitted**)
+* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Under review**)
 
 * Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under revision in **Cell**)
 
@@ -43,7 +43,6 @@ Under review/revision
 
 Published
 ======
-* Dou, Y, ..., **Chowdhury, Shrabanti**, Wang, P et al. Proteogenomic Characterization of Endometrial Carcinoma (**Cell**, 2020)
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2020)
 
