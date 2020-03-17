@@ -10,6 +10,7 @@ author_profile: true
 
 I am a verfied reviewer at [Publons](https://publons.com/researcher/1211118/shrabanti-chowdhury/)
 
+[Here](https://github.com/Shrabanti87/shrabanti87.github.io/blob/master/_pages/BIOM%20Reviewer%20Certificate.pdf) is the reviewer certificate received from Biometrics
 
 Current Editorial Board Membership
 ======
