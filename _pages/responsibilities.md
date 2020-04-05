@@ -25,6 +25,8 @@ Refereed research papers for journals:
   * [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)
   * [Computational Statistics and Data Analysis](https://www.journals.elsevier.com/computational-statistics-and-data-analysis)
   * [Journal of Probability and Statistics](https://www.hindawi.com/journals/jps/)
+  * Journal of Statistical Computation and Simulation
+  
 
 
 Other Services
