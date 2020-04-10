@@ -15,7 +15,7 @@ Invited Talks
 
 * [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://sites.google.com/uncg.edu/aisc2020) at Greensboro, North Carolina, USA, October 2020 
 
-* Topic contributed session in Biometrics, [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2020/) 2020 at Philadelphia, PA, USA, August 2020
+* Topic contributed session in [Biometrics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/MainSearchResults.cfm), JSM 2020,  Philadelphia, PA, USA, August 2020
 
 * [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
 
