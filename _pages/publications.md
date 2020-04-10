@@ -34,12 +34,12 @@ Under review/revision
 
 * Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under revision in **Cell**)
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Communication**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSSC**)
            
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Digital Medicine**) 
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Communication**) 
 
 Published
 ======
