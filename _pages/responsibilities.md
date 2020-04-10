@@ -31,9 +31,9 @@ Refereed research papers for journals:
 
 Other Services
 ======
-* Organizer of a topic contributed session in [Section on Statistics in Genomics and Genetics](https://community.amstat.org/sectiononstatisticsingenomicsandgenetics/home) at JSM 2020, Philadelphia, PA, USA
+* Organizer of a topic contributed session in [Section on Statistics in Genomics and Genetics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/MainSearchResults.cfm) at JSM 2020, Philadelphia, PA, USA
 * Organizer of a topic contributed session in [Mental Health Statistics Section](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/ActivityDetails.cfm?SessionID=214208) at JSM 2017, Baltimore, MD, USA
-* Chair of a topic contributed session at JSM 2020, Philadelphia, PA, USA
+* Chair of a topic contributed session [Section on Statistics in Genomics and Genetics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/MainSearchResults.cfm) at JSM 2020, Philadelphia, PA, USA
 * Chair of an invited session at [International Indian Statistical Association](http://iisa2018.biostat.ufl.edu/) 2018, Gainsville, Florida, USA
 * Chair of a topic contributed session in [Biometrics](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/ActivityDetails.cfm?SessionID=214139) Section at JSM 2017, Baltimore, MD, USA
 
