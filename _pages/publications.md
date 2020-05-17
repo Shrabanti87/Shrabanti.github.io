@@ -44,6 +44,10 @@ Under review/revision
 Published
 ======
 
+* Ghosh, S., ..., **Chowdhury, Shrabanti**, Tiwari, R.C. New approaches for testing non-inferiority for three-arm trials with Poisson distributed outcomes (**Biostatistics**, 2020)
+
+* Dou, Y. et al. Proteogenomic Characterization of Endometrial Carcinoma (**Cell**, 2020)
+
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2020)
 
 * Clark, D, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (**Cell**, 2019).   
