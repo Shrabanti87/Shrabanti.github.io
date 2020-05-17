@@ -22,22 +22,22 @@ Work in Progress
 Near submission
 ======
 
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers 
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic Profiling of Platinum Responses Reveals Novel Differences Between Platinum Sensitive and Resistant Ovarian Cancer Cells
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC 
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Breast carcinoma biomarker classification with quantitative multiplexed immuno-MRM improves by incorporating an immuno- MRM assay panel focused on normalization of breast cancer microheterogeneity
 
 Under review/revision
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Under review**)
+* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (**Under review in Bioinformatics**)
 
 * Petralia, F, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under revision in **Cell**)
 
 * Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Communication**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSSC**)
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. A Model-free Approach for Testing Association (Under revision in **JRSSC**)
            
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Communication**) 
 
