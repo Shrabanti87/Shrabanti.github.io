@@ -22,11 +22,11 @@ Work in Progress
 Near submission
 ======
 
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic Profiling of Platinum Responses Reveals Novel Differences Between Platinum Sensitive and Resistant Ovarian Cancer Cells
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Molecular profiling implicates OXPHOS/fatty acid oxidation as a potential druggable target in platinum-resistant high grade serous ovarian cancer
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Breast carcinoma biomarker classification with quantitative multiplexed immuno-MRM improves by incorporating an immuno- MRM assay panel focused on normalization of breast cancer microheterogeneity
+* Kennedy, J, ..., Wang, P, **Chowdhury, Shrabanti** et al. Breast carcinoma biomarker classification with quantitative multiplexed immuno-MRM improves by incorporating an immuno- MRM assay panel focused on normalization of breast cancer microheterogeneity
 
 Under review/revision
 ======
