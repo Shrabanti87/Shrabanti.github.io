@@ -32,7 +32,7 @@ Under review/revision
 ======
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
 
-* Petralia, F\*, ..., **Chowdhury, Shrabanti**\*, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under revision in **Cell**) \*Co-first authors
+* Petralia, F\*, ..., **Chowdhury, Shrabanti**\*, ..., Wang, P . Integrated Proteogenomic Characterization across Major Histological types of Pediatric Brain Cancer (Under revision in **Cell**) \*Co-first authors
 
 * Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Communication**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
