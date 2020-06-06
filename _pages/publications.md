@@ -44,7 +44,7 @@ Under review/revision
 Published
 ======
 
-* ..., **Chowdhury, Shrabanti**, Tiwari, R.C. New approaches for testing non-inferiority for three-arm trials with Poisson distributed outcomes (**Biostatistics**, 2020)
+* Ghosh, S, Paul, E, **Chowdhury, Shrabanti**, Tiwari, R.C. New approaches for testing non-inferiority for three-arm trials with Poisson distributed outcomes (**Biostatistics**, 2020)
 
 * Dou, Y. et al. Proteogenomic Characterization of Endometrial Carcinoma (**Cell**, 2020)
 
