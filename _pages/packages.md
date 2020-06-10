@@ -15,4 +15,3 @@ Here are the list of R packages I, along with other collaborators, developed and
 
 * [Google](https://github.com/Shrabanti87/Gooogle): Group Regularization for Zero Inflated Count Regression Models
 
-* [DAGBag](https://github.com/Shrabanti87/DAGBag): algorithm for learning directed acyclic graphs with mixed variables (In progress)
