@@ -38,7 +38,7 @@ Under review/revision
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. A Model-free Approach for Testing Association (Under revision in **JRSSC**)
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review in **Nature Communication**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under revision in **Nature Communication**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
           
 
