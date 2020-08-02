@@ -11,9 +11,11 @@ author_profile: true
 Work in Progress
 ======
 
-* Differential gene expression analysis of Multi-omics data using Tweedie Compound Poisson Models
+* Comprehensive proteogenomic analysis of human ovarian cancer data
 
-* Learning Directed Acyclic Graphs integrating bulk tumor and single cell RNAseq data
+* Differential expression analysis of single-cell and bulk RNA-seq data using regularized Tweedie GLMs
+
+* ScDAGBagM: Learning Directed Acyclic Graphs via bootstrap aggregation for single cell RNAseq data
 
 * Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
 
@@ -32,8 +34,6 @@ Under review/revision
 ======
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
 
-* Petralia, F\*, ..., **Chowdhury, Shrabanti**\*, ..., Wang, P . Integrated Proteogenomic Characterization across Major Histological types of Pediatric Brain Cancer (Under revision in **Cell**) \*Co-first authors
-
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. A Model-free Approach for Testing Association (Under revision in **JRSSC**)
@@ -44,6 +44,8 @@ Under review/revision
 
 Published
 ======
+
+* Petralia, F\*, ..., **Chowdhury, Shrabanti**\*, ..., Wang, P . Integrated Proteogenomic Characterization across Major Histological types of Pediatric Brain Cancer (Accepted in **Cell**) \*Co-first authors
 
 * Ghosh, S, Paul, E, **Chowdhury, Shrabanti**, Tiwari, R.C. New approaches for testing non-inferiority for three-arm trials with Poisson distributed outcomes (**Biostatistics**, 2020)
 
