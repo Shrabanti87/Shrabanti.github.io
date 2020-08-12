@@ -11,7 +11,7 @@ author_profile: true
 List of awards/honors
 ======
 
-* Recognized as the young investigator in the NCI-CPTAC program spotlight series Spring 2020
+* Highlighted in the young investigator spotlight series Spring 2020 of CPTAC program, NCI 
 * Recipient of [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019 Travel Award
 * Recipient of [International Indian Statistical Association Conference](http://iisa2018.biostat.ufl.edu/) 2018 Travel Award 
 * Recipient of [Patient Centered Outcome Research Institute](https://www.pcori.org/) 2016 Trainee Scholarship Award
