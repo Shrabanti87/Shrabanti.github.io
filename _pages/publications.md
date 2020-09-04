@@ -11,11 +11,11 @@ author_profile: true
 Work in Progress
 ======
 
-* Comprehensive proteogenomic analysis of human ovarian cancer data
+* Integrated proteogenomic characterization of human ovarian cancer 
 
 * Differential expression analysis of single-cell and bulk RNA-seq data using regularized Tweedie GLMs
 
-* ScDAGBagM: Learning Directed Acyclic Graphs via bootstrap aggregation for single cell RNAseq data
+* Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data
 
 * Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
 
@@ -24,7 +24,7 @@ Work in Progress
 Near submission
 ======
 
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Molecular profiling implicates OXPHOS/fatty acid oxidation as a potential druggable target in platinum-resistant high grade serous ovarian cancer
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Multitopic analysis implicates OXPHOS/fatty acid oxidation as a potential druggable target in platinum-resistant high grade serous ovarian cancer
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
@@ -32,7 +32,7 @@ Near submission
 
 Under review/revision
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBag: an algorithm to learn directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
+* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
 
