@@ -8,30 +8,31 @@ author_profile: true
 
 {% include base_path %}
 
-Work in Progress
+In Preparation
 ======
 
-* Integrated proteogenomic characterization of human ovarian cancer 
+* **Chowdhury, Shrabanti** et al. Integrated proteogenomic characterization of ovarian cancer 
 
-* Differential expression analysis of single-cell and bulk RNA-seq data using regularized Tweedie GLMs
+* **Chowdhury, Shrabanti** et al. Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data
 
-* Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data
+* Chatterjee, S, **Chowdhury, Shrabanti**, Natanegara, Fanni. Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
 
-* Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
-
-* Optimal designs in discrete choice experiment 
+* Lukemire, J, **Chowdhury, Shrabanti**, Mandal, A. Robust Design of Choice Experiments with Interactions Between Attributes and Partial Profiles
 
 Near submission
 ======
 
+* Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S, Mallick, Himel.Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
+
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Multitopic analysis implicates OXPHOS/fatty acid oxidation as a potential druggable target in platinum-resistant high grade serous ovarian cancer
 
-* Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
+* Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
-* Kennedy, J, ..., Wang, P, **Chowdhury, Shrabanti** et al. Breast carcinoma biomarker classification with quantitative multiplexed immuno-MRM improves by incorporating an immuno- MRM assay panel focused on normalization of breast cancer microheterogeneity
+* Kennedy, J, ..., **Chowdhury, Shrabanti**, Wang, P, et al. Breast carcinoma biomarker classification with quantitative multiplexed immuno-MRM improves by incorporating an immuno- MRM assay panel focused on normalization of breast cancer microheterogeneity
 
 Under review/revision
 ======
+
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
