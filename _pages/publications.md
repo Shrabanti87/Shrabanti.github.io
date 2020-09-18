@@ -22,7 +22,7 @@ In Preparation
 Near submission
 ======
 
-* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S.Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
+* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S. Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Multitopic analysis implicates OXPHOS/fatty acid oxidation as a potential druggable target in platinum-resistant high grade serous ovarian cancer
 
