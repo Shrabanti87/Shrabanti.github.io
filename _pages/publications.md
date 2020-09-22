@@ -28,7 +28,7 @@ Near submission
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti**, Wang, P, et al. Breast carcinoma biomarker classification with quantitative multiplexed immuno-MRM improves by incorporating an immuno- MRM assay panel focused on normalization of breast cancer microheterogeneity
+* Kennedy, J, ..., **Chowdhury, Shrabanti**, Wang, P, et al. Quantification of HER2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded (FFPE) and Frozen Breast Cancer Tissues
 
 Under review/revision
 ======
