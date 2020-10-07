@@ -37,14 +37,13 @@ Under review/revision
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. A Model-free Approach for Testing Association (Under revision in **JRSSC**)
-
 * Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under revision in **Nature Communication**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
           
 
 Published
 ======
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, S. A Model-free Approach for Testing Association (Accepted in **JRSSC**)
 
 * Petralia, F\*, ..., **Chowdhury, Shrabanti**\*, ..., Wang, P . Integrated Proteogenomic Characterization across Major Histological types of Pediatric Brain Cancer (Accepted in **Cell**) \*Co-first authors
 
