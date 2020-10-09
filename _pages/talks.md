@@ -41,15 +41,17 @@ Participation in Selected Workshops  (**Competitive Selection**)
 * [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA 
 
 
-Selected Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
+Selected Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Meetings
 ======
-*  NCI site-visit for annual PTRC meeting, March 2020, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
-*  NCI site-visit for annual PTRC meeting, May 2019, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
-*  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA
+* [NCI-CPTAC](https://events.cancer.gov/cssi/occpr) Annual Meeting (Virtual), USA, September 2020 
+*  NCI site-visit for annual PTRC meeting, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA, March 2020
+*  NCI site-visit for annual PTRC meeting, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA, May 2019
+*  NCI site-visit for annual PGDAC meeting, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA, April 2019
 
 
-Selected Contributed Talks
+Selected Other Talks
 ======
+
 * Joint Statistical Meeting Conference at Denver, Colorado, USA, July 2019
 
 * Joint Statistical Meeting Conference at Vancouver, British Columbia, Canada, July 2018
