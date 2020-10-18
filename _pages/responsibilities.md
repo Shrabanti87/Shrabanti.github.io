@@ -20,12 +20,14 @@ Review Responsibility
 ======
 Refereed research papers for journals:
   * [Biometrics](https://onlinelibrary.wiley.com/journal/15410420) 
+  * [Journal of Applied Statistics](https://www.tandfonline.com/loi/cjas20)
+  * [Genome Medicine](https://genomemedicine.biomedcentral.com/)
   * [Plos One](https://journals.plos.org/plosone/)
   * [Pharmaceutical Statistics](https://onlinelibrary.wiley.com/journal/15391612)
   * [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)
   * [Computational Statistics and Data Analysis](https://www.journals.elsevier.com/computational-statistics-and-data-analysis)
   * [Journal of Probability and Statistics](https://www.hindawi.com/journals/jps/)
-  * Journal of Statistical Computation and Simulation
+  * [Journal of Statistical Computation and Simulation](https://www.tandfonline.com/toc/gscs20/current)
   
 
 
