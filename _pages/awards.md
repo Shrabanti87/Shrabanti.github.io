@@ -11,7 +11,7 @@ author_profile: true
 List of awards/honors
 ======
 
-* Highlighted in the [Junior investigator spotlight series of CPTAC program, NCI](https://proteomics.cancer.gov/news_and_announcements/case-you-missed-it-cptac-junior-investigator-spotlight-part-1)
+* Featured in the [Junior investigator spotlight series of CPTAC program, NCI](https://proteomics.cancer.gov/news_and_announcements/case-you-missed-it-cptac-junior-investigator-spotlight-part-1)
 * Recipient of [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019 Travel Award
 * Recipient of [International Indian Statistical Association Conference](http://iisa2018.biostat.ufl.edu/) 2018 Travel Award 
 * Recipient of [Patient Centered Outcome Research Institute](https://www.pcori.org/) 2016 Trainee Scholarship Award
