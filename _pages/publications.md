@@ -28,10 +28,12 @@ Near submission
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti**, Wang, P, et al. Quantification of HER2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded (FFPE) and Frozen Breast Cancer Tissues
+*  Quantification of HER2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded (FFPE) and Frozen Breast Cancer Tissues
 
 Under review/revision
 ======
+
+Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (under review in **Clinical Chemistry**)
 
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
 
