@@ -33,7 +33,7 @@ Near submission
 Under review/revision
 ======
 
-Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (under review in **Clinical Chemistry**)
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (under review in **Clinical Chemistry**)
 
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
 
