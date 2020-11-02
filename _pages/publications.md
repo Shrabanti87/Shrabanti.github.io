@@ -19,6 +19,8 @@ In Preparation
 
 * Lukemire, J, **Chowdhury, Shrabanti**, Mandal, A. Robust Design of Choice Experiments with Interactions Between Attributes and Partial Profiles
 
+*  **Chowdhury, Shrabanti** and Mandal, A. Optimal network balanced designs
+
 Near submission
 ======
 
@@ -27,8 +29,6 @@ Near submission
 * Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. OXPHOS/fatty acid oxidation is a potential druggable target in platinum-refractory high grade serous ovarian cancer \*Co-first authors
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
-
-*  Quantification of HER2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded (FFPE) and Frozen Breast Cancer Tissues
 
 Under review/revision
 ======
