@@ -11,11 +11,11 @@ author_profile: true
 In Preparation
 ======
 
-* **Chowdhury, Shrabanti** et al. Integrated proteogenomic characterization of ovarian cancer 
+* **Chowdhury, Shrabanti** and others. Integrated proteogenomic characterization of ovarian cancer 
 
-* **Chowdhury, Shrabanti** et al. Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data
+* **Chowdhury, Shrabanti** and others. Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data
 
-* Chatterjee, S, **Chowdhury, Shrabanti**, Natanegara, Fanni. Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
+* Chatterjee, S, **Chowdhury, Shrabanti**, Natanegara, F. Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
 
 * Lukemire, J, **Chowdhury, Shrabanti**, Mandal, A. Robust Design of Choice Experiments with Interactions Between Attributes and Partial Profiles
 
