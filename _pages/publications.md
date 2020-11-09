@@ -26,7 +26,7 @@ Near submission
 
 * Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S. Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
 
-* Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. OXPHOS/fatty acid oxidation is a potential druggable target in platinum-refractory high grade serous ovarian cancer \*Co-first authors
+* Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies OXPHOS/fatty acid oxidation as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer \*Co-first authors
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
