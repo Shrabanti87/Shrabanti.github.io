@@ -19,7 +19,6 @@ In Preparation
 
 * Lukemire, J, **Chowdhury, Shrabanti**, Mandal, A. Robust Design of Choice Experiments with Interactions Between Attributes and Partial Profiles
 
-*  **Chowdhury, Shrabanti** and Mandal, A. Optimal network balanced designs
 
 Near submission
 ======
