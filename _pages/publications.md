@@ -42,6 +42,9 @@ Under review/revision
 \*Co-first authors
           
 
-Published
+Accepted/Published
 ======
-See full publications [here](https://scholar.google.com/citations?hl=en&user=7GPa9SoAAAAJ&view_op=list_works&authuser=1)
+
+* Chatterjee, S, **Chowdhury, Shrabanti**, Basu, S, A Model-free Approach for Testing Association (Accepted in **JRSSC**, 2020)
+
+See full list of publications [here](https://scholar.google.com/citations?hl=en&user=7GPa9SoAAAAJ&view_op=list_works&authuser=1)
