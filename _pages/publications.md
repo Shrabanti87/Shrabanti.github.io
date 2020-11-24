@@ -13,7 +13,7 @@ In Preparation
 
 * **Chowdhury, Shrabanti** and others. Integrated proteogenomic characterization of ovarian cancer 
 
-* **Chowdhury, Shrabanti** and others. Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data
+* **Chowdhury, Shrabanti** and others. Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data. R package available in [github](https://github.com/jie108/scDagBag) 
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Natanegara, F. Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
 
@@ -34,7 +34,7 @@ Under review/revision
 
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (under review in **Clinical Chemistry**)
 
-* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**)
+* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**). R package available in [github](https://github.com/jie108/dagbagM) 
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
 
