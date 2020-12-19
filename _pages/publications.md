@@ -25,12 +25,12 @@ Near submission
 
 * Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S. Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
 
-* Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies OXPHOS/fatty acid oxidation as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer \*Co-first authors
-
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
 Under review/revision
 ======
+
+* Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies CPT1A as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer (under review in **Cell Reports Medicine**) \*Co-first authors 
 
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (under review in **Clinical Chemistry**)
 
