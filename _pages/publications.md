@@ -23,7 +23,7 @@ In Preparation
 Near submission
 ======
 
-* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S. Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
+* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S, Hicks, S. Differential Expression Analysis of Single-cell RNA-Seq Data usingSelf-adaptive Tweedie Generalized Linear Models
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Ryu, D, Basu, S. Bayesian Functional Data Analysis for the Identification of Differentially Methylated Regions 
 
