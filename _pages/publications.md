@@ -13,7 +13,7 @@ In Preparation
 
 * **Chowdhury, Shrabanti** and others. Integrated proteogenomic characterization of ovarian cancer 
 
-* **Chowdhury, Shrabanti** and others. Learning Directed Acyclic Graphs via bootstrap aggregation for spatial transcriptomics data. R package available in [github](https://github.com/jie108/scDagBag) 
+* **Chowdhury, Shrabanti** and others. Learning directed acyclic graphs for ligands and receptors based on spatially resolved transcriptomic analysis of ovarian cancer. R package available in [github](https://github.com/jie108/scDagBag) 
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Natanegara, F. Impact of Model Misspecification on Alzheimer Trial Operating Characteristics
 
