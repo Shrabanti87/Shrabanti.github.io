@@ -42,7 +42,7 @@ Under review/revision
 Accepted/Published
 ======
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (Accepted in **Clinical Chemistry**)
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (Accepted in **Clinical Chemistry**, 2021)
 
 * Chatterjee, S, **Chowdhury, Shrabanti**, Basu, S, A Model-free Approach for Testing Association (Accepted in **JRSSC**, 2020)
 
