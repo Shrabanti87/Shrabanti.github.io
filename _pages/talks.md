@@ -67,6 +67,9 @@ Selected Other Talks
 
 Selected Posters
 ======
+
+* [US HUPO 2021](https://www.ushupo.org/), virtual conference, USA, March 2021 
+
 * [NCI-CPTAC](https://events.cancer.gov/cssi/occpr) Annual Meeting at NIH, Bethesda, MD, USA, October 2019 
 
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html), Colorado State University, Colorado, USA, July 2019
