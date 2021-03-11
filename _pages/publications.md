@@ -32,7 +32,7 @@ Under review/revision
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
 
-* Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies CPT1A as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer (under review in **Cell Reports Medicine**) \*Co-first authors 
+* Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies CPT1A as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer (under revision in **Cell Reports Medicine**) \*Co-first authors 
 
 * **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**). R package available in [github](https://github.com/jie108/dagbagM) 
 
