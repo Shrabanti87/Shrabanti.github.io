@@ -34,8 +34,6 @@ Under review/revision
 
 * Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies CPT1A as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer (under revision in **Cell Reports Medicine**) \*Co-first authors 
 
-* **Chowdhury, Shrabanti**, ..., Wang, P. DAGBagM: Learning directed acyclic graphs of mixed variables with an application to identify prognostic protein biomarkers in ovarian cancer (Under review in **Bioinformatics**). R package available in [github](https://github.com/jie108/dagbagM) 
-
 * Ma, W, Kim, S, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (under revision in **Molecular and Cellular Proteomics**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
 
           
