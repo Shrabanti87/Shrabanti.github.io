@@ -28,9 +28,9 @@ Near submission
 Under review/revision
 ======
 
-* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S, Hicks, S. Differential Expression of Single-cell RNA-Seq Data using Tweedie Models(Submitted in **Biometrics**)
+* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S, Hicks, S. Differential Expression of Single-cell RNA-Seq Data using Tweedie Models (submitted in **Biometrics**)
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under revision in **Nature Communication**)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (under revision in **Nature Communication**)
 
 * Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies CPT1A as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer (under revision in **Cell Reports Medicine**) \*Co-first authors 
 
