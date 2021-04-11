@@ -28,7 +28,7 @@ Near submission
 Under review/revision
 ======
 
-* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S, Hicks, S. Differential Expression of Single-cell RNA-Seq Data using Tweedie Models (submitted in **Biometrics**)
+* Mallick, H, Chatterjee, S, **Chowdhury, Shrabanti**, Chatterjee, S, Hicks, S. Differential Expression of Single-cell RNA-Seq Data using Tweedie Models (under review in **Biometrics**)
 
 * Huang, D\*, **Chowdhury, Shrabanti**\*, ..., Wang, P et al. Multiomic analysis identifies CPT1A as a potential therapeutic target in platinum-refractory high grade serous ovarian cancer (under revision in **Cell Reports Medicine**) \*Co-first authors 
 
