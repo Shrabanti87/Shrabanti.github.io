@@ -10,6 +10,7 @@ author_profile: true
 
 Invited Talks
 ======
+* [International Indian Statistical Association Conference](https://www.intindstat.org/summerConference2021/index) (Virtual) , USA, May 2021
 
 * 13th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2020](http://www.cmstatistics.org/CMStatistics2020/), London, UK, December, 2020
 
@@ -17,7 +18,7 @@ Invited Talks
 
 * Topic contributed session in Biometrics section, JSM 2020,  Philadelphia, PA, USA, August 2020
 
-* [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
+* [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, December 2019
 
 * [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
 
