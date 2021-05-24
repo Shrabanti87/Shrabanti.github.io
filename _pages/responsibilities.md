@@ -33,6 +33,7 @@ Refereed research papers for journals:
 
 Other Services
 ======
+* [Invited judge of student paper competition (applied series)](https://www.intindstat.org/public/uploads/newsletters/IISA_Spring_2021_Newsletter.pdf), International Indian Statistical Association, Virtual, 2021
 * Organizer of a topic contributed session in [Section on Statistics in Genomics and Genetics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219628) at JSM 2020, Philadelphia, PA, USA
 * Organizer of a topic contributed session in [Mental Health Statistics Section](https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/ActivityDetails.cfm?SessionID=214208) at JSM 2017, Baltimore, MD, USA
 * Chair of a topic contributed session [Section on Statistics in Genomics and Genetics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219622) at JSM 2020, Philadelphia, PA, USA
