@@ -38,6 +38,4 @@ Under review/revision
 Accepted/Published
 ======
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Quantification of Human Epidermal Growth Factor Receptor 2 by Immunopeptide Enrichment and Targeted Mass Spectrometry in Formalin-Fixed Paraffin-Embedded and Frozen Breast Cancer Tissues (Accepted in **Clinical Chemistry**, 2021)
-
 See full list of publications [here](https://scholar.google.com/citations?hl=en&user=7GPa9SoAAAAJ&view_op=list_works&authuser=1)
